@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FeedBack</title>
+    <link rel="stylesheet" href=" response.css">
+</head>
+<body> 
+       <h1>Fill this form and let us know about your openion on Soil Erosion</h1>
+    <h2><b>Your Ideas are Valuable For Us</b></h2>
+    
+    
+    <form id="Commentform">
+        <!-- <label for="name"></label> --> <h3>Name: </h3>
+        <input type="text" id="name" name="name" required><br>
+    
+        <!-- <label for="email"></label> --> <h3>Email:</h3>
+        <input type="email" id="email" name="email" required><br>
+        
+        <!-- <label for="comments"></label> --> <h3>Comments:</h3>
+        <textarea id="comments" name="comments" placeholder="Your ideas..." rows="100" style="height: 200px;width: 350px;background-color: white; border: 5px 5px black;" required></textarea><br>
+
+        <input type="submit" value="Submit" onclick="showAlert()">
+    </form>
+    <script>
+        function showAlert() {
+            alert('Sended Successfully')
+            alert('Thank you ');
+        }
+    </script>
+
+
+</body>
+</html>
