@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on MERN STACK as a FUll Stack Web Developer<br>I'm currently learning Java<br>Ask me about HTML, CSS, JavaScript, C, C++, Java, React.js, Next.js, Json<br>
+I'm currently working on MERN STACK as a FUll Stack Web Developer<br>I'm currently learning Next Js And System Design <br>Ask me about HTML, CSS, JavaScript, C, C++, Java, React.js, Next.js, Json<br>
 
 
 ## 🌐 Socials:
